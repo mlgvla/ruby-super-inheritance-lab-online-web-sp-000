@@ -1,4 +1,4 @@
-require_relative ./student.#!/usr/bin/env ruby -wKU
+require_relative ./student
 
 class ChattyStudent < Student
 
